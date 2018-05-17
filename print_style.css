@@ -1,0 +1,101 @@
+
+body {
+  background-color: white;
+  margin: 0;
+  font-family: Product Sans, serif;
+}
+[alt="Shetland_Pony"] {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  border: 2px solid black;
+  width: auto;
+  height: 315px;
+  float: right;
+}
+[alt="Shetland_Pony3"] {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  border: 2px solid black;
+  width: auto;
+  height: 315px;
+  float: right;
+}
+[alt="Highland_Pony"] {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  border: 2px solid black;
+  width: auto;
+  height: 315px;
+  float: right;
+}
+[alt="Dartmoor_Pony"] {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+    0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  border: 2px solid black;
+  width: auto;
+  height: 315px;
+  float: right;
+}
+h1 {
+  color: #000000;
+  text-align: center;
+font-family: 'Product Sans', serif;
+  font-size: 300%;
+}
+h3 {
+  color: #000000;
+font-family: 'Product Sans', serif;
+}
+small {
+  font-family: 'Product Sans', serif;
+}
+[alt="SocialMedia"]  {
+  height: 50px;
+  width: 50px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color: white;
+}
+
+input[type=submit] {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  background-color: #000;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+      -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+#header,
+#nav-menu,
+#sidebar,
+#parallax,
+#footer {
+    display: none;
+}

@@ -1,4 +1,5 @@
 # The Pony Information Project [![Generic badge](https://img.shields.io/badge/Creative-Project-<COLOR>.svg)](https://harens.github.io/CreativeProject/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fharens%2FThePonyInformationProject.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fharens%2FThePonyInformationProject?ref=badge_shield)
 Visit The Pony Information Guide Project website [here](https://harens.github.io/ThePonyInformationProject/)
 
 Visit the 'Creative Project' website [here](https://harens.github.io/CreativeProject/)
@@ -35,3 +36,6 @@ All previous versions are hosted on [CodePen](https://codepen.io)
   * [About](https://codepen.io/SamuraiSinger/full/xPxXbK)
 ### License [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/harens/ThePonyInformationProject/blob/master/LICENSE)
 ThePonyInformationProject is licensed under the [GNU General Public License v3.0](https://github.com/harens/ThePonyInformationProject/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fharens%2FThePonyInformationProject.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fharens%2FThePonyInformationProject?ref=badge_large)
